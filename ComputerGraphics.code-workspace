@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "OpenGL_Transformations"
+		},
+		{
+			"path": "OpenGL_VertexColor"
 		}
 	],
 	"settings": {
