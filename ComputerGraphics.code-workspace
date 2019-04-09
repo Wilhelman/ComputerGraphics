@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "JavascriptTests"
+		},
+		{
+			"path": "OpenGL_Transformations"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OpenGL_Transformations"
+	}
 }
